@@ -1,0 +1,24 @@
+10 disks: 
+Number of transfer orders: 1023
+Execution time: 3 microseconds 
+
+11 disks: 
+Number of transfer orders: 2047
+Execution time: 7 microseconds 
+
+12 disks: 
+Number of transfer orders: 4095
+Execution time: 14 microseconds 
+
+13 disks: 
+Number of transfer orders: 8191
+Execution time: 27 microseconds 
+
+14 disks: 
+Number of transfer orders: 16383
+Execution time: 54 microseconds 
+
+15 disks: 
+Number of transfer orders: 32767
+Execution time: 107 microseconds 
+
